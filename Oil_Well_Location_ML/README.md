@@ -1,4 +1,4 @@
-**Выбор локации для скважины**
+[**Выбор локации для скважины**](https://github.com/AnnaTrampa/Portfolio/blob/main/Oil_Well_Location_ML/Oil_Well_Location_ML.ipynb)
 
 Данный проект посвящен использованию машинного обучения для решения бизнес задач. 
 
