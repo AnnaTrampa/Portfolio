@@ -1,4 +1,4 @@
-[**Рекоммендация тарифов**](https://github.com/AnnaTrampa/Portfolio/blob/main/Tariffs_Recommendatios_DA_SA_ML/Tariffs_Recommendatios_DA_SA_ML.ipynb)
+[**Рекомендация тарифов**](https://github.com/AnnaTrampa/Portfolio/blob/main/Tariffs_Recommendatios_DA_SA_ML/Tariffs_Recommendatios_DA_SA_ML.ipynb)
 
 В данном проекте проанализирваны два тарифных плана оператора сотовой связи с целью установить, какой тариф рекомендовать пользователям.
 
