@@ -1,4 +1,4 @@
-**Отток клиентов**
+[**Отток клиентов**](https://github.com/AnnaTrampa/Portfolio/blob/main/Bank%20_Clients_Churn_ML/Bank%20_Clients_Churn_Supervised_Learning.ipynb)
 
 Данный проект посвящен решению задачи бинарной классификации в обучении с учителем. В проекте исследуется эффективность различных методов устранения дисбаланса классов.
 
