@@ -7,3 +7,4 @@
 Подготовлен прототип модели машинного обучения, прогнозирующей коэффициент восстановления золота из золотосодержащей руды.
 
 В проекте использованы библиотеки pandas, numpy, matplotlib, sklearn и optuna.
+Обучены модели LinearRegression, ElasticNet, Lasso, Ridge, DecisionTreeRegressor, RandomForestRegressor. 

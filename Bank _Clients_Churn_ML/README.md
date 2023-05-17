@@ -9,3 +9,4 @@
 Основная метрика качества моделей - F1-мера, дополнительно измерялась AUC-ROC.
 
 В проекте использованы библиотеки pandas, matplotlib, sklearn.
+Обучены модели DecisionTreeClassifier, RandomForestClassifier, LogisticRegression.
