@@ -1,4 +1,4 @@
-[**Определение возраста покупателей**](https://github.com/AnnaTrampa/Portfolio/blob/main/Auto_Prices_ML/Auto_Prices_ML.ipynb)
+[**Определение возраста покупателей**](https://github.com/AnnaTrampa/Portfolio/blob/main/Yandex%20Practicum%20DS%20Projects/Determining_Customers_Age_CV/Determining_Customers_Age_CV.ipynb)
 
 Создадание системы компьютерного зрения для обработки фотографий покупателей в прикассовой зоне сетевого супермаркета.
 
