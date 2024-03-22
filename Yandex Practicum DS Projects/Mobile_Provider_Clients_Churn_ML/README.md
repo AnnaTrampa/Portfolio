@@ -1,4 +1,4 @@
-[**Прогнозирование оттока клиентов**](https://github.com/AnnaTrampa/Portfolio/blob/main/Auto_Prices_ML/Auto_Prices_ML.ipynb)
+[**Прогнозирование оттока клиентов**](https://github.com/AnnaTrampa/Portfolio/blob/main/Yandex%20Practicum%20DS%20Projects/Mobile_Provider_Clients_Churn_ML/Mobile_Provider_Clients_Churn_ML.ipynb)
 
 **Цель:**
 
@@ -19,8 +19,3 @@
 **Статус:**
 
 Проект завершён.
-
-
-```python
-
-```
