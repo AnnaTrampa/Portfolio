@@ -1,4 +1,4 @@
-[**Классификация комментариев**](https://github.com/AnnaTrampa/Portfolio/blob/main/Auto_Prices_ML/Auto_Prices_ML.ipynb)
+[**Классификация комментариев**](https://github.com/AnnaTrampa/Portfolio/blob/main/Yandex%20Practicum%20DS%20Projects/Comments_Classification_ML_For_Texts/Comments_Classification_ML_For_Texts%20.ipynb)
 
 Создание инструмента, который будет искать токсичные комментарии и отправлять их на модерацию.
 
@@ -22,8 +22,3 @@
 **Статус:**
 
 Проект завершён.
-
-
-```python
-
-```
